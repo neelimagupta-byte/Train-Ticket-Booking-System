@@ -1,5 +1,41 @@
 # Prerequisites
 *.d
+# Ignore compiled object files
+*.o
+
+# Ignore compiled binaries and executables
+*.exe
+*.out
+*.app
+
+# Ignore debug and temporary files
+*.log
+*.tmp
+*.stackdump
+*.dSYM/
+
+# Ignore backup and swap files
+*~
+*.bak
+*.swp
+
+# Ignore build directories
+/build/
+/bin/
+/obj/
+
+# Ignore data files generated during runtime
+train.dat
+tickets.dat
+temp.dat
+
+# Ignore editor-specific files (VS Code, Dev-C++, etc.)
+.vscode/
+*.code-workspace
+
+# Ignore system files
+Thumbs.db
+.DS_Store
 
 # Object files
 *.o
