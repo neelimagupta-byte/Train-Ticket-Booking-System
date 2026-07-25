@@ -5,7 +5,7 @@ This project demonstrates file handling, structures and CRUD operations for mana
 
 ---
 
-## 📌 Features
+## Features
 - Add new train details (number, name, route, timings, seats, price).
 - Update existing train information while preserving booked seats.
 - Display all trains with arrival/departure times, price, and seat availability.
@@ -17,13 +17,13 @@ This project demonstrates file handling, structures and CRUD operations for mana
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Language:** C
 - **Data Storage:** Binary files (`train.dat`, `tickets.dat`)
 - **Concepts Used:** Structures, File Handling, Validation Functions
 
 ---
-## 🎯 Learning Outcomes
+## Learning Outcomes
 - Practical use of **structures** in C programming.  
 - Handling **binary files** for persistent data storage.  
 - Implementing **CRUD operations** in a real-world scenario.  
